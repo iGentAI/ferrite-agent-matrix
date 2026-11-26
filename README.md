@@ -23,6 +23,6 @@ Corrections are welcome as issues, especially where a client's behaviour has cha
 
 ## Licence and contributions
 
-Apache-2.0; see `LICENSE`. This repository accepts issues and does not accept outside pull requests; see `CONTRIBUTING.md`. Report a security problem to security@ferrite.cloud, as `SECURITY.md` describes. The hosted Ferrite platform is proprietary and not open source.
+The text is copyright iGent AI and is not offered under an open source licence; see `LICENSE`. This repository accepts issues and does not accept outside pull requests; see `CONTRIBUTING.md`. Report a security problem to security@ferrite.cloud, as `SECURITY.md` describes. The hosted Ferrite platform is proprietary and not open source.
 
 This repository is a scrubbed public snapshot prepared by the Ferrite team and carries no private development history.
